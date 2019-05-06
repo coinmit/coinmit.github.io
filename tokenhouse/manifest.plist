@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.coinmit.io/ios_download/coinmit.ipa</string>
+					<string>http://www.tokenhouse.co/ios_download/tokenhouse.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>project.alien.coinmit</string>
+				<string>project.merlini.toukenhouse</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string></string>
 				<key>title</key>
-				<string>Coinmit</string>
+				<string>Token House</string>
 			</dict>
 		</dict>
 	</array>
